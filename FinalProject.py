@@ -2,7 +2,7 @@ import time
 import streamlit as st
 import pandas as pd
 import numpy as np
-import joblib #to load a saved model
+import joblib 
 import cv2
 import base64  #to open .gif files in streamlit app
 import os
